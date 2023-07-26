@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Palindrome {
+public class Pallindrome {
     public static void main(String[] args) {
         int num=141;
         int temp =num;
