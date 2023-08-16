@@ -46,7 +46,7 @@ public class StringEx1 {
         // == -> equality Comparison
         // equals() -> Equality comparison
         // == - compares reference of 2 strings
-        // equals() - comapre values of 2 strings
+        // equals() - compare values of 2 strings
         //split(",") - "HTML,CSS,MySQl,JAVA"
         //"HTML"
         //"CSS"
