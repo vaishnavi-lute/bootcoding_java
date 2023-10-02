@@ -1,3 +1,5 @@
+package com.bootcoding.java.array;
+
 public class ArrayOfPalindromeNum {
         public static boolean isPalindrome(int arr[]) {
             for (int i = 0; i < arr.length / 2; i++) {

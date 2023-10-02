@@ -1,3 +1,5 @@
+package com.bootcoding.java.array;
+
 public class ArrayOfSwapping {
     public static void main(String[] args) {
         int a[] = {5, 7, 11, 2, 10, 15};

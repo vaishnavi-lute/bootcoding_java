@@ -1,7 +1,9 @@
+package com.bootcoding.java.Thread.seiesThread;
+
 import java.util.Scanner;
 
-public class ArmstrongNum {
-    public static void main(String[] args) {
+public class ArmstrongSeries extends Thread{
+    public void run(){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter any 3 Digit number");
         int n = scanner.nextInt();
@@ -20,7 +22,5 @@ public class ArmstrongNum {
             System.out.println(" is not Armstrong number ");
         }
     }
-
-
 }
 
