@@ -1,3 +1,5 @@
+package com.bootcoding.java.UsingMethod;
+
 import org.w3c.dom.ls.LSOutput;
 
 public class SumOfNumByMethod {

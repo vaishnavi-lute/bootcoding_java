@@ -1,3 +1,5 @@
+package com.bootcoding.java.UsingMethod;
+
 import java.util.Random;
 public class PrimeNumUsingMethod {
     public static void main(String[] args) {

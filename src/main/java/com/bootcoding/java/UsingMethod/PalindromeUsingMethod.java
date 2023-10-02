@@ -1,3 +1,5 @@
+package com.bootcoding.java.UsingMethod;
+
 public class PalindromeUsingMethod {
     public static void main(String[] args) {
         Palindrome(141);

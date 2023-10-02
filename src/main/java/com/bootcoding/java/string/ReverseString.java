@@ -1,3 +1,5 @@
+package com.bootcoding.java.string;
+
 public class ReverseString {
     public static void main(String[] args) {
         String name= "hello";
