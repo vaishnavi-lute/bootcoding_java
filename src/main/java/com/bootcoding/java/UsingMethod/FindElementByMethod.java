@@ -1,3 +1,5 @@
+package com.bootcoding.java.UsingMethod;
+
 public class FindElementByMethod {
     public static void main(String[] args) {
         int arr[] = {10, 7, 11, 2};

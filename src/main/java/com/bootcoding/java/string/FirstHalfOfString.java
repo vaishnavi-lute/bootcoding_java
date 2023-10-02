@@ -1,3 +1,5 @@
+package com.bootcoding.java.string;
+
 public class FirstHalfOfString {
     public static void main(String[] args) {
         String input = "vaishnavi";

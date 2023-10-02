@@ -1,3 +1,5 @@
+package com.bootcoding.java.UsingMethod;
+
 import java.util.Scanner;
 
 public class DateOfBirthUsingMethod {
