@@ -1,3 +1,5 @@
+package com.bootcoding.java.string;
+
 public class StringBuilderEx {
 
     //task technology

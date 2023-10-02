@@ -1,3 +1,5 @@
+package com.bootcoding.java.string;
+
 public class StringExCode2 {
     public static void main(String[] args) {
         //1.1.1.1

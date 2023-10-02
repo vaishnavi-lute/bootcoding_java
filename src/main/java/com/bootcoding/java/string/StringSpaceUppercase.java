@@ -1,3 +1,5 @@
+package com.bootcoding.java.string;
+
 public class StringSpaceUppercase {
     public static void main(String[] args) {
         String input = "java"; // J A V A

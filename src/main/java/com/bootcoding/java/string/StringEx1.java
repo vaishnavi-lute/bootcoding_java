@@ -1,4 +1,4 @@
-package com.bootcoding.java;
+package com.bootcoding.java.string;
 
 import java.lang.String;
 
