@@ -1,3 +1,5 @@
+package com.bootcoding.java.starPattern;
+
 public class StarPatternOfNum3 {
     public static void main(String[] args) {
        int n=5;

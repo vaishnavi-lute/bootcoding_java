@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops;
+package com.bootcoding.java.oops.objectCreation;
 
 public class Animal {
     //Instance variable
@@ -10,7 +10,7 @@ public class Animal {
         Animal cat = new Animal();
         cat.name = "cat";
         cat.color = "black";
-        // Access - classname se access kar sakte ho
+        // Access - classname se access kar sakte ho.
         Animal.type = "Animal";
         Animal dog = new Animal();
         dog.name = "leo";

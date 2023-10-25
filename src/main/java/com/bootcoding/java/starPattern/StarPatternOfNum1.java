@@ -1,19 +1,19 @@
-package com.bootcoding.java;
+package com.bootcoding.java.starPattern;
 
-public class StarPatternOfNum {
+public class StarPatternOfNum1 {
     //1
-    //12
-    //123
-    //1234
-    //12345
+    //22
+    //333
+    //4444
+    //55555
     public static void main(String[] args) {
         int n = 5;
         int i, j;
         for (i = 0; i <= n; i++) {
             for (j = 1; j <= i; j++) {
-                System.out.print(j);
+                System.out.print(i);
             }
-                System.out.println();
+            System.out.println();
         }
     }
 }

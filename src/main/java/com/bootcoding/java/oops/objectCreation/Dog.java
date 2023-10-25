@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops;
+package com.bootcoding.java.oops.objectCreation;
 
 public class Dog {
     String name;

@@ -1,4 +1,4 @@
-package com.bootcoding.java;
+package com.bootcoding.java.starPattern;
 
 import java.util.Scanner;
 //12345

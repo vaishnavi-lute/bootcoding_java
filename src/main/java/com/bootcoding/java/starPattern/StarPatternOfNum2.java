@@ -1,4 +1,4 @@
-package com.bootcoding.java;
+package com.bootcoding.java.starPattern;
 
 public class StarPatternOfNum2 {
     //1
