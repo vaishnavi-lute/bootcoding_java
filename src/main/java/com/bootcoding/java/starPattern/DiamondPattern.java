@@ -1,3 +1,5 @@
+package com.bootcoding.java.starPattern;
+
 import java.util.Scanner;
 
 public class DiamondPattern {
