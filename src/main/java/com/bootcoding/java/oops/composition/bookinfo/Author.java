@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops.composition;
+package com.bootcoding.java.oops.composition.bookinfo;
 
 public class Author {
     String authorName;
